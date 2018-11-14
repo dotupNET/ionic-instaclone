@@ -1,5 +1,7 @@
 {
   "name": "InstaClone",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
